@@ -1,6 +1,6 @@
 ## Hi there, I'm Diego Dias Jacobino 👋
 
-- 🔭 I’m currently working on System Analist/Test/Power Bi
+- 🔭 I’m currently working on System Analist/Tester/Power Bi
 - 💬 Ask me about everything, I'm a curious person interested in helping
 - 📫 How to reach me: diegodjacobino@gmail.com
 
